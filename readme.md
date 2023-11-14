@@ -5,7 +5,8 @@
 
 ### ERD:
 
-![ERD](./erdStockAPI.png)
+[ERD]
+(./erdStockAPI.png)
 
 ### ERD-2 (snake_case):
 
