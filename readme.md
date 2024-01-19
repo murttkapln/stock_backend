@@ -1,8 +1,12 @@
 # STOCK MANAGEMENT API
 
+### Visit:
+### stock-backend([https://stock-backend-ef4eur5i5-murttkapln.vercel.app](https://stock-backend-api-gphh.onrender.com))
+
 ### ERD:
 
-![ERD](./erdStockAPI.png)
+[ERD]
+(./erdStockAPI.png)
 
 ### ERD-2 (snake_case):
 
